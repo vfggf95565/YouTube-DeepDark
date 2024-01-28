@@ -16,16 +16,18 @@ Code also taken from [youtube-custom-colors-video-progress-bar
 
 [![alt tag](https://img.shields.io/badge/Install%20directly%20with-Stylus-%233daee9?style=for-the-badge)](https://github.com/RaitaroH/YouTube-DeepDark/raw/master/YouTubeDeepDarkMaterial.user.css)
 
-#### Using a browser extension:
-* Stylus - get the addon for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).
-* This is only available using Stylus (see the [documentation](https://github.com/openstyles/stylus/wiki/Usercss)).
-* Also see the documentation for information about customizing the theme. :tada:
+#### Using a browser extension
 
->**NOTE: This CAN work with Stylish in Google Chrome, BUT I don't support Stylish.**
+- Stylus - get the addon for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).
+- This is only available using Stylus (see the [documentation](https://github.com/openstyles/stylus/wiki/Usercss)).
+- Also see the documentation for information about customizing the theme. :tada:
+
+> **NOTE: This CAN work with Stylish in Google Chrome, BUT I don't support Stylish.**
 
 ### **You can also install all my themes at once from [here](https://gitlab.com/RaitaroH/Import-All-Deepdark).**
 
 # Material Version
+
 ![alt tag](./YT_Images/Colors.gif)
 
 # Classic Version
